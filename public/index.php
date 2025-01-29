@@ -13,3 +13,4 @@ $response = [
 
 http_response_code(200); // HTTP status code for success
 echo json_encode($response);
+    
