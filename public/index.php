@@ -5,7 +5,7 @@ header("Content-Type: application/json");
 
 // API response data
 $response = [
-    "email" => "abasiemekakpan7@gmail.com",
+    "email" => "chosennseobong@gmail.com",
     "current_datetime" => gmdate("Y-m-d\TH:i:s\Z"), 
     "github_url" => "git@github.com:Emek1212/hng-task.git" 
 ];
