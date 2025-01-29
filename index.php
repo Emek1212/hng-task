@@ -5,9 +5,9 @@ header("Content-Type: application/json");
 
 // API response data
 $response = [
-    "email" => "chosennseobong@gmail.com", // Replace with your HNG12 Slack email
+    "email" => "abasiemekakpan7@gmail.com", // Replace with your HNG12 Slack email
     "current_datetime" => gmdate("Y-m-d\TH:i:s\Z"), // Generate current date/time in ISO 8601 (UTC)
-    "github_url" => "https://github.com/yourusername/your-repo" // Replace with your GitHub repo link
+    "github_url" => "git@github.com:Emek1212/hng-task.git" // Replace with your GitHub repo SSH URL
 ];
 
 // Send the response as JSON
