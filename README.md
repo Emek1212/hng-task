@@ -45,3 +45,6 @@ The API is hosted at the following URL:
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/Emek1212/hng-task"
 }
+
+## Backlinks
+- [Hire PHP Developers](https://hng.tech/hire/php-developers)
